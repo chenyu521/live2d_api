@@ -178,6 +178,23 @@
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
+    ],
+        [
+      "HyperdimensionNeptunia/neptune_classic",
+      "HyperdimensionNeptunia/nepnep",
+      "HyperdimensionNeptunia/neptune_santa",
+      "HyperdimensionNeptunia/nepmaid",
+      "HyperdimensionNeptunia/noir_classic",
+      "HyperdimensionNeptunia/noir",
+      "HyperdimensionNeptunia/noir_santa",
+      "HyperdimensionNeptunia/blanc_classic",
+      "HyperdimensionNeptunia/blanc_normal",
+      "HyperdimensionNeptunia/vert_classic",
+      "HyperdimensionNeptunia/vert_normal",
+      "HyperdimensionNeptunia/nepgear",
+      "HyperdimensionNeptunia/nepgear_extra",
+      "HyperdimensionNeptunia/histoire",
+      "HyperdimensionNeptunia/histoirenohover"
     ]
   ],
   "messages": [
@@ -188,6 +205,7 @@
     "啊喏呐，啊喏呐~",
     "埃罗芒阿三赛？我...我才不认识这人呢！",
     "欢迎光临Rabbit house ~",
-    "Shizuku Talk ！这里是 Shizuku ~"
+    "Shizuku Talk ！这里是 Shizuku ~",
+    "Nep! Nep! 超次元游戏：海王星 系列"
   ]
 }
